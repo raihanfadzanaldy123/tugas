@@ -9,7 +9,7 @@
 <body>
 
  <fieldset>
- <legend align ="center"><h1>HALLO</h1></legend>
+ <legend align ="center"><h1>HALLOO</h1></legend>
     <form action= "prosesRegis.php" method= "POST" name "input">
     Nama <br>
     <input type ="text" name= "nama"><br>
